@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/kerf-lockup-on-dark.svg">
+    <img src="assets/kerf-lockup.svg" alt="Kerf" height="72">
+  </picture>
+</p>
+
 # Kerf releases
 
 Hier staan alleen de releases van Kerf, een lichte notch-app voor macOS: muziek met doorspoelen, een shelf voor bestanden, AirDrop via de notch, batterij-meldingen en een eigen volume/helderheid-HUD. De code zelf is privé.
